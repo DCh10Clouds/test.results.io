@@ -1,10 +1,11 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
   "children" : [ {
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "479a5c1754162c38",
+      "uid" : "800072dc52a888fd",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "passed",
       "time" : {
@@ -21,7 +22,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "da32403ef4420b12",
+      "uid" : "b6f8451e352d7dab",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "passed",
       "time" : {
@@ -38,23 +39,22 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "7c8da65e62af909d",
+      "uid" : "6cc804ea44a760b",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "passed",
       "time" : {
-        "start" : 1652778029475,
-        "stop" : 1652778031703,
-        "duration" : 2228
+        "start" : 1652788648322,
+        "stop" : 1652788650537,
+        "duration" : 2215
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 3,
       "retriesStatusChange" : false,
       "parameters" : [ "Chrome Headless-101.0.4951.64" ]
     } ],
     "uid" : "f43874cc36d1c5833cbb332fc53460ce"
-  } ],
-  "name" : "packages"
+  } ]
 }

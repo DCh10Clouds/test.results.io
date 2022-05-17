@@ -1,5 +1,5 @@
 {
-  "uid" : "479a5c1754162c38",
+  "uid" : "800072dc52a888fd",
   "name" : "should login with valid credentials",
   "fullName" : "My Login application.should login with valid credentials",
   "historyId" : "28e7e95ab9dea7c7a8f12d1ed229a857",
@@ -30,9 +30,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "edde9ead2511c5bb",
+        "uid" : "86b9bc60f14c7639",
         "name" : "Request",
-        "source" : "edde9ead2511c5bb.json",
+        "source" : "86b9bc60f14c7639.json",
         "type" : "application/json",
         "size" : 55
       } ],
@@ -51,15 +51,15 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "c947af15c40777bb",
+        "uid" : "71a67ed81c7d26d3",
         "name" : "Request",
-        "source" : "c947af15c40777bb.json",
+        "source" : "71a67ed81c7d26d3.json",
         "type" : "application/json",
         "size" : 53
       }, {
-        "uid" : "3741c43d4600c7d0",
+        "uid" : "688313e13d3f9d9f",
         "name" : "Response",
-        "source" : "3741c43d4600c7d0.json",
+        "source" : "688313e13d3f9d9f.json",
         "type" : "application/json",
         "size" : 83
       } ],
@@ -93,9 +93,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "21cc0d4eb0e0329b",
+        "uid" : "7fec888eb50d7199",
         "name" : "Request",
-        "source" : "21cc0d4eb0e0329b.json",
+        "source" : "7fec888eb50d7199.json",
         "type" : "application/json",
         "size" : 24
       } ],
@@ -114,15 +114,15 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "6dcae3d99b0a988",
+        "uid" : "6fc5d55eca396264",
         "name" : "Request",
-        "source" : "6dcae3d99b0a988.json",
+        "source" : "6fc5d55eca396264.json",
         "type" : "application/json",
         "size" : 53
       }, {
-        "uid" : "7b4ae2154378a261",
+        "uid" : "71f9de4b2258be6c",
         "name" : "Response",
-        "source" : "7b4ae2154378a261.json",
+        "source" : "71f9de4b2258be6c.json",
         "type" : "application/json",
         "size" : 83
       } ],
@@ -156,9 +156,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "46270d20a9875c7d",
+        "uid" : "9c6ad7267d3baa76",
         "name" : "Request",
-        "source" : "46270d20a9875c7d.json",
+        "source" : "9c6ad7267d3baa76.json",
         "type" : "application/json",
         "size" : 36
       } ],
@@ -177,15 +177,15 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "4a5fa2ac13163612",
+        "uid" : "9c6f8945c7306d99",
         "name" : "Request",
-        "source" : "4a5fa2ac13163612.json",
+        "source" : "9c6f8945c7306d99.json",
         "type" : "application/json",
         "size" : 67
       }, {
-        "uid" : "25e45ddd3deec80b",
+        "uid" : "aeb3a94c1b30c66f",
         "name" : "Response",
-        "source" : "25e45ddd3deec80b.json",
+        "source" : "aeb3a94c1b30c66f.json",
         "type" : "application/json",
         "size" : 83
       } ],
@@ -219,15 +219,15 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "dbdbd5ae3cadfe0e",
+        "uid" : "81e45ae353827fdb",
         "name" : "Request",
-        "source" : "dbdbd5ae3cadfe0e.json",
+        "source" : "81e45ae353827fdb.json",
         "type" : "application/json",
         "size" : 50
       }, {
-        "uid" : "efa5dca59abea229",
+        "uid" : "a2cb3791d4eaf29d",
         "name" : "Response",
-        "source" : "efa5dca59abea229.json",
+        "source" : "a2cb3791d4eaf29d.json",
         "type" : "application/json",
         "size" : 83
       } ],
@@ -246,15 +246,15 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "72cdb77a99db13a8",
+        "uid" : "9798d25578e862f1",
         "name" : "Request",
-        "source" : "72cdb77a99db13a8.json",
+        "source" : "9798d25578e862f1.json",
         "type" : "application/json",
         "size" : 50
       }, {
-        "uid" : "a9669f45adad413c",
+        "uid" : "13ae555b8e087264",
         "name" : "Response",
-        "source" : "a9669f45adad413c.json",
+        "source" : "13ae555b8e087264.json",
         "type" : "application/json",
         "size" : 93
       } ],
@@ -273,15 +273,15 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "da63f73c1e9d0542",
+        "uid" : "86dc89d230cb6977",
         "name" : "Request",
-        "source" : "da63f73c1e9d0542.json",
+        "source" : "86dc89d230cb6977.json",
         "type" : "application/json",
         "size" : 50
       }, {
-        "uid" : "502a6fb5896eeb48",
+        "uid" : "51e1dab5354e3e97",
         "name" : "Response",
-        "source" : "502a6fb5896eeb48.json",
+        "source" : "51e1dab5354e3e97.json",
         "type" : "application/json",
         "size" : 83
       } ],
@@ -300,9 +300,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "e0db2d34a0b82073",
+        "uid" : "f67ce74714de67e6",
         "name" : "Response",
-        "source" : "e0db2d34a0b82073.json",
+        "source" : "f67ce74714de67e6.json",
         "type" : "application/json",
         "size" : 36
       } ],
@@ -355,7 +355,7 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "5432ffb610829233",
+      "uid" : "6ca75be578d57d04",
       "status" : "passed",
       "time" : {
         "start" : 1652699508112,
@@ -369,11 +369,19 @@
         "failed" : 0,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 2,
+        "passed" : 3,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
+        "uid" : "479a5c1754162c38",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652702450096,
+          "stop" : 1652702452486,
+          "duration" : 2390
+        }
+      }, {
         "uid" : "cc7d1f70ffc1a35e",
         "status" : "passed",
         "time" : {
@@ -385,6 +393,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "479a5c1754162c38.json",
+  "source" : "800072dc52a888fd.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }
