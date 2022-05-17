@@ -2,7 +2,7 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "should login with valid credentials",
-    "uid" : "cc7d1f70ffc1a35e",
+    "uid" : "479a5c1754162c38",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -19,7 +19,7 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "should login with valid credentials",
-    "uid" : "32edd52221466ac7",
+    "uid" : "da32403ef4420b12",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -36,19 +36,19 @@
     "parameters" : [ "Chrome-101.0.4951.64" ]
   }, {
     "name" : "should login with valid credentials",
-    "uid" : "3c78750aeb2282c4",
+    "uid" : "7c8da65e62af909d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1652703228927,
-      "stop" : 1652703231304,
-      "duration" : 2377
+      "start" : 1652778029475,
+      "stop" : 1652778031703,
+      "duration" : 2228
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 2,
     "retriesStatusChange" : false,
     "parameters" : [ "Chrome Headless-101.0.4951.64" ]
   } ],
